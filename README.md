@@ -94,10 +94,9 @@ tmdb_5000_credits.csv
 
 ## 👩‍💻 Author
 
-**Adeeba Nousheen**
-**Faiza Naaz**
-**Arshiya Sadaff**
-
+-Adeeba Nousheen
+-Arshiya Sadaff
+-Faiza Naaz
 B.Tech Artificial Intelligence & Machine Learning
 
 Python | Machine Learning | Data Analytics | SQL | Power BI
