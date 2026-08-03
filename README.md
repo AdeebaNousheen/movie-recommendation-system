@@ -95,6 +95,8 @@ tmdb_5000_credits.csv
 ## 👩‍💻 Author
 
 **Adeeba Nousheen**
+**Faiza Naaz**
+**Arshiya Sadaff**
 
 B.Tech Artificial Intelligence & Machine Learning
 
