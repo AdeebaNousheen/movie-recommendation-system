@@ -92,15 +92,16 @@ tmdb_5000_credits.csv
 
 ---
 
-## 👩‍💻 Author
+## 👥 Authors
 
--Adeeba Nousheen
--Arshiya Sadaff
--Faiza Naaz
-B.Tech Artificial Intelligence & Machine Learning
+**Project Team**
 
-Python | Machine Learning | Data Analytics | SQL | Power BI
+- 👩‍💻 **Adeeba Nousheen** – Machine Learning, Data Preprocessing & Model Development
+- 👩‍💻 **Arshiya Sadaff** – Dataset Preparation & Testing
+- 👩‍💻 **Faiza Naaz** – Documentation & Project Support
 
----
+**Department:** B.Tech – Artificial Intelligence & Machine Learning
+
+**Skills Used:** Python • Machine Learning • Data Analytics • Pandas • NumPy • Scikit-learn • NLP • GitHub • Google Colab
 
 ## ⭐ If you found this project useful, don't forget to Star the repository!
